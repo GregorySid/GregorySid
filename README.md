@@ -19,8 +19,13 @@
 ---
 
 ### Моя статистика :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregorysid)](https://github.com/gregorysid/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorysid)](https://github.com/gregorysid/github-readme-stats)
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gregorysid">
+<img  src="https://github-readme-stats.vercel.app/api?username=gregorysid">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregorysid">
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal">
+</div>
