@@ -20,7 +20,6 @@
 
 ### Моя статистика :
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gregorysid">
 <img  src="https://github-readme-stats.vercel.app/api?username=gregorysid">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregorysid">
 
