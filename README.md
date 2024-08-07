@@ -14,7 +14,7 @@
 <img src="https://github.com/user-attachments/assets/52e5c32d-a4d6-4863-8cd6-4fe9e10ed023" width="32" height="32"> Приложеение "Прогноз погоды"<br>
 <img src="https://github.com/user-attachments/assets/bb0db3e9-0956-4b0a-9d83-09d368fd32b7" width="32" height="32"> Приложеение "Прогноз погоды"<br>
 ### 2024
-<img src="https://github.com/iamkatrechko/ProjectManager/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> "Task-менеджер"<br>
+<img src="https://github.com/iamkatrechko/ProjectManager/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> "Tack-менеджер"<br>
 
 ---
 
